@@ -1,0 +1,55 @@
+body{
+	background-color: #eee;
+}
+h1, h3{
+	font-family: courier-prime, monospace;
+	font-weight: 700;
+	font-style: normal;
+}
+h1{
+	font-size: 3em;
+	text-align: center;
+}
+h3{
+	font-size: 2em;
+}
+
+p{
+	font-family: source-sans-pro, 'Arial', sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 1.5em;
+}
+h4{
+	font-family: source-sans-pro, 'Arial', sans-serif;
+	text-align: center;
+	font-size: 2em;
+	font-style: normal;
+	font-weight: 400;
+
+}
+div{
+	margin: 0 auto;
+	width: 90vw;
+}
+input{
+	width: 100%;
+	height: auto;
+	background-color: #eee;
+	border:none;
+	border-bottom: 4px solid red;
+	text-align: center;
+	font-family: courier-prime, monospace;
+	font-size: 1.5em;
+}
+input[type=submit]{
+	width: auto;
+	height: auto;
+	border:1px solid red;
+	margin: 5px;
+	font-family: courier-prime, monospace;
+	font-size: 1em;
+	font-weight: 700;
+	text-transform: uppercase;
+	background-color: #ccc;
+}
