@@ -12,7 +12,7 @@ title: The Training Commission
 ---
 
 ### **About The Training Commission**
-*The Training Commission* is a speculative fiction email newsletter that takes place several years after a truth and reconciliation process after the end of a civil war-torn United States of America. Among other areas of inquiry, the commission's work examined the domestic role of automated and algorithmic systems in perpetuating or enabling bias, memetic acceleration of division, and inequality. This led to the implementation of high standards for algorithmic accountability and a carefully managed data-driven, technocratized executive branch replacing the office of the Presidency. Also, the dissolution or pseudo-nationalization of social media and big data corporations.
+*The Training Commission* is a speculative fiction email newsletter that takes place several years after a truth and reconciliation process' efforts to rebuild a civil war-torn United States of America. Among other areas of inquiry, the commission's work examined the domestic role of automated and algorithmic systems in perpetuating or enabling bias, memetic acceleration of division, and inequality. This led to the implementation of high standards for algorithmic accountability, the dissolution or pseudo-nationalization of social media and major tech corporations, and a carefully managed data-driven, technocratized executive branch replacing the office of the Presidency.
 
 It's in this future that freelance journalist Aoife [**TK**] is just trying to make a living (and a name for herself outside of the shadow of her famously-martyred older brother) when she stumbles onto a document from the commission's archives that many powerful people would rather keep buried. As she digs deeper into the story (all the while dispatching her findings to her newsletter subscribers), Aoife realizes that what she's found could upend America's tenuously held peace–and get her killed in the process.
 
@@ -30,4 +30,4 @@ It's in this future that freelance journalist Aoife [**TK**] is just trying to m
 
 *The Training Commission* is a work of fiction. Names, characters, places, and incidents either are a product of the authors’ imagination(s) or are used fictitiously, and any resemblance to actual persons, living or dead, businesses, companies, events, or locales is entirely coincidental.
 
-*The Training Commission* received financial support from the Mozilla Foundation. The contents of *The Training Commission* do not necessarily reflect the views of the Mozilla Foundation, and the Mozilla Foundation is not responsible for any creative aspects of *The Training Commission*.
+*The Training Commission* received financial support from the Mozilla Foundation. The contents of *The Training Commission* do not necessarily reflect the views of the Mozilla Foundation and do not speak for or on behalf of the Mozilla Foundation.
