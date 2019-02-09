@@ -30,4 +30,4 @@ It's in this future that freelance journalist Aoife [**TK**] is just trying to m
 
 *The Training Commission* is a work of fiction. Names, characters, places, and incidents either are a product of the authors’ imagination(s) or are used fictitiously, and any resemblance to actual persons, living or dead, businesses, companies, events, or locales is entirely coincidental.
 
-*The Training Commission* received financial support from the Mozilla Foundation. The contents of *The Training Commission* do not necessarily reflect the views of the Mozilla Foundation and do not speak for or on behalf of the Mozilla Foundation.
+*The Training Commission* received financial support from Mozilla. The contents of *The Training Commission* do not necessarily reflect the views of Mozilla and do not speak for or on behalf of Mozilla.
