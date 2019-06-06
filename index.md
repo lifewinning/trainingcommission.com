@@ -7,7 +7,34 @@ title: The Training Commission
 
 #### A serial fiction newsletter by Brendan Byrne and Ingrid Burrington, launching spring 2019. 
 
- <form style="text-align:center;" action="https://tinyletter.com/The_Training_Commission" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/The_Training_Commission', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><input type="text" name="email" id="tlemail" placeholder="enter email to subscribe"/><input type="hidden" value="1" name="embed"/><input type="submit" class="submit" value="Subscribe"><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
+<!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup input[type="email"]{
+	width: 100%;
+	height: auto;
+	background-color: #eee;
+	border:none;
+	border-bottom: 4px solid red;
+	text-align: center;
+	font-family: courier-prime, monospace;
+	font-size: 1.5em;
+}
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="https://trainingcommission.us20.list-manage.com/subscribe/post?u=2726413f341073141d694e7d6&amp;id=c1860787f4" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate style="text-align: center;">
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="enter email to subscribe">
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div><!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_2726413f341073141d694e7d6_c1860787f4" tabindex="-1" value=""></div><input type="submit" value="Subscribe" name="subscribe" class="submit">
+</form>
+</div>
+
+<!--End mc_embed_signup-->
 
 ---
 
