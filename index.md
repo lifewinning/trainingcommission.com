@@ -5,7 +5,9 @@ title: The Training Commission
 
 # The Training Commission
 
-#### A serial fiction newsletter by Brendan Byrne and Ingrid Burrington, launching spring 2019. [Read chapter one](https://vice.com/en_us/article/43jagj/the-training-commission) at Terraform.
+#### A serial fiction newsletter by Brendan Byrne and Ingrid Burrington, launching spring 2019. 
+
+#### [Read chapter one](https://vice.com/en_us/article/43jagj/the-training-commission) at Terraform.
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
