@@ -5,7 +5,7 @@ title: The Training Commission
 
 # The Training Commission
 
-#### A serial fiction newsletter by Brendan Byrne and Ingrid Burrington, launching spring 2019. 
+#### A serial fiction newsletter by Brendan Byrne and Ingrid Burrington, launching spring 2019. [Read chapter one](https://vice.com/en_us/article/43jagj/the-training-commission) at Terraform.
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -39,11 +39,12 @@ title: The Training Commission
 ---
 
 ### **About The Training Commission**
+
 *The Training Commission* is a speculative fiction email newsletter about the compromises and consequences of using technology to reckon with collective trauma. Several years after a period of civil unrest and digital blackouts in the United States, a truth and reconciliation process has led to a major restructuring of the federal government, major tech companies, and the criminal justice system. 
 
 In this still-rebuilding America, freelance journalist Aoife Tkachenko is just trying to make a living (and a name for herself outside of the shadow of her famously-martyred older brother) when she stumbles onto a document from the commission's archives that many powerful people would rather keep buried. As she digs deeper into the story (all the while dispatching her findings to her newsletter subscribers), Aoife realizes that what she's found could upend America's tenuously held peace–and get her killed in the process.
 
-*The Training Commission* will run over the course of eight weeks in spring 2019, after which point the newsletters and all other related ephemera will be published on this website. Questions or media inquiries can be sent to [info@trainingcommission.com](mailto:info@trainingcommission.com).
+*The Training Commission* will run over the course of six weeks in spring 2019, after which point the newsletters and all other related ephemera will be published on this website. Questions or media inquiries can be sent to [info@trainingcommission.com](mailto:info@trainingcommission.com).
 
 ---
 
