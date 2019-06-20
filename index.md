@@ -5,12 +5,12 @@ title: The Training Commission
 
 # The Training Commission
 
-#### A serial fiction newsletter by Brendan Byrne and Ingrid Burrington, launching spring 2019. 
+#### A serial fiction newsletter by Brendan Byrne and Ingrid Burrington. 
 
 #### [Read chapter one](https://vice.com/en_us/article/43jagj/the-training-commission) at Terraform.
 
 <!-- Begin Mailchimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<!-- <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 	#mc_embed_signup input[type="email"]{
 	width: 100%;
@@ -31,12 +31,10 @@ title: The Training Commission
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
-	</div><!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+	</div>real people should not fill this in and expect good things - do not remove this or risk form bot signups>
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_2726413f341073141d694e7d6_c1860787f4" tabindex="-1" value=""></div><input type="submit" value="Subscribe" name="subscribe" class="submit">
 </form>
-</div>
-
-<!--End mc_embed_signup-->
+</div>  -->
 
 ---
 
@@ -46,7 +44,7 @@ title: The Training Commission
 
 In this still-rebuilding America, freelance journalist Aoife Tkachenko is just trying to make a living (and a name for herself outside of the shadow of her famously-martyred older brother) when she stumbles onto a document from the commission's archives that many powerful people would rather keep buried. As she digs deeper into the story (all the while dispatching her findings to her newsletter subscribers), Aoife realizes that what she's found could upend America's tenuously held peace–and get her killed in the process.
 
-*The Training Commission* will run over the course of six weeks in spring 2019, after which point the newsletters and all other related ephemera will be published on this website. Questions or media inquiries can be sent to [info@trainingcommission.com](mailto:info@trainingcommission.com).
+*The Training Commission* ran over the course of six weeks in May and June 2019. The full series will be available on this website soon. Questions or media inquiries can be sent to [info@trainingcommission.com](mailto:info@trainingcommission.com).
 
 ---
 
