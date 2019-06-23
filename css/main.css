@@ -53,3 +53,17 @@ input[type=submit]{
 	text-transform: uppercase;
 	background-color: #ccc;
 }
+.chapter-contents{
+	width: 70vw;
+}
+
+a{
+	text-decoration: none;
+	font-weight: 800;
+	color: red;
+}
+.break{
+	border-bottom: 4px solid red;
+	margin-bottom: 2.5%;
+	margin-top: 2.5%
+}
