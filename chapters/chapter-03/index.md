@@ -38,7 +38,7 @@ Look, I know Wallerstein came with caveats and you said I should slow the fuck d
 
 So yeah Avi kicked me out last night. Some extremely wellarmed case workers came over yesterday to ask me questions about Michalchuck. I didn’t give them anything except the finger and they left pretty quickly, but given Avi’s history being on the receiving end of “militarized social work” and the possibility of putting his kid at risk he understandably lost his shit. I mean, I’m also pretty sure he and Mel didn’t really like having their living room redecorated as a ripoff Mark Lombardi installation, given that my sense-making process still involves a sprawling serial killer wall of notes and printouts. 
 
-Not that I _have_ been able to   make any sense of any of it. It doesn’t add up to an accusation so much as an atmosphere, a bunch of articulations of something _wrong_ that I haven’t heard couched quite like this. Something about why the Training Commission existed in the first place, why the Ashburn Institute pushed so hard for it, why the machine learning tech that arguably _caused _or at least _enabled_ the Shitstorm was somehow declared the best way to _prevent_ another one from happening again. But there’s no smoking gun, no obvious relationships between the interviewees, no damning proof of a particular crime.
+Not that I _have_ been able to   make any sense of any of it. It doesn’t add up to an accusation so much as an atmosphere, a bunch of articulations of something _wrong_ that I haven’t heard couched quite like this. Something about why the Training Commission existed in the first place, why the Ashburn Institute pushed so hard for it, why the machine learning tech that arguably _caused_ or at least _enabled_ the Shitstorm was somehow declared the best way to _prevent_ another one from happening again. But there’s no smoking gun, no obvious relationships between the interviewees, no damning proof of a particular crime.
 
 I keep going back to this one interview with [Jamie Rowen](/interviews/JR.pdf) (dat://cab556087df4c669210568bc129fafb1453d0e06c89be6cae26e41154fd72ef1/)–an academic who studied trtuh commissions and what they’re good for and not good for. She talks about a short-lived (and apparently poorly documented) effort to start a truth commission in 2009 about 9/11 foreverwar stuff. And like, Mansoor Adayfi’s Nobel Prize notwithstanding, that history arguably still hasn’t really _really_ been dealt with.
 
@@ -154,7 +154,7 @@ MW: Ciárnan is _the_ _reason_ they signed the Peace Accords. Ciárnan is _the r
 
 AW: Mom, the government _listens_ by _tracking_ everyone all the–
 
-MW: –but It’s the _right tracking system, _it’s designed to _learn_ from _us_. The system improves when it has more data. When people participate in building the dataset, they build power. The training data established a foundation for that.
+MW: –but It’s the _right tracking system_,it’s designed to _learn_ from _us_. The system improves when it has more data. When people participate in building the dataset, they build power. The training data established a foundation for that.
 
 AW: You’re...you’re just saying words you heard on MSNBC, Mom. That’s not how it–
 

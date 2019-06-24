@@ -22,7 +22,7 @@ Many of these interviewees and the the institutions they are associated with hav
 
 Does this _matter_? Even if we accept the somewhat controversial narrative that the Ashburn Institute never would have been able to sell the National Algorithm as a replacement for the Executive Office without the successes of the Training Commission, any doubt placed on the origin of the TC wouldn’t _remove_ the National Algo. It does, after all, have the best approval ratings of any executive in American history, and even the most cynical purveyor of counterfactuals would hesitate to argue that any other end to the Shitstorm would have been better for the country. However, Darcy Lawson and the Ashburn Institute have long emphasized that both the TC and the National Algo are mere _representatives_ of the will of the people. In her 2035 memoir, _Content, Not Intent_, Lawson writes:
 
-_ The technology of late twentieth-century parliamentary democracy was never designed to truly dislodge the bedrock of early American politics: white male landowning oligarchy. Of course, no one fully acknowledged this, which only added to democracy’s fragility. That it would eventually collapse under its own unconscious ambitions should, in retrospect, be obvious. The 2016 election, Charlottesville, Daytona Beach, Altoona, and the dozens of events we would later understand to be the first stages of the Interstate Conflict were not anomalies of the American democratic system, but its apotheosis. _
+_The technology of late twentieth-century parliamentary democracy was never designed to truly dislodge the bedrock of early American politics: white male landowning oligarchy. Of course, no one fully acknowledged this, which only added to democracy’s fragility. That it would eventually collapse under its own unconscious ambitions should, in retrospect, be obvious. The 2016 election, Charlottesville, Daytona Beach, Altoona, and the dozens of events we would later understand to be the first stages of the Interstate Conflict were not anomalies of the American democratic system, but its apotheosis._
 
 _Following a day-long convening of civil society stakeholders and family foundations to discuss the possibilities for tackling this memetic feedback loop of bad politics, the Ashburn Institute proposed a collection of training data culled from the devices which already formed an unobserved internet of democratic things around us at all times. This content had previously been utilized primarily by corporations selling products and by social media platforms selling their users’ attention as a product to aforementioned corporations. Why couldn’t this content be repurposed for good? Why couldn’t Big Data give us Big Democracy? All that was needed, we realized, was an advanced enough neural net to process the content and a politically neutral, non-governmental body to allow said net’s interpretations to be expressed clearly, functionally, and without ideological interpretation._
 
@@ -180,7 +180,7 @@ AT: They killed him.
 
 LV: What are–
 
-AT: You’re saying they_ killed_ him because of–because of this research for Darcy, this report–
+AT: You’re saying they _killed_ him because of–because of this research for Darcy, this report–
 
 LV: I didn’t–
 

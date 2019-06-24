@@ -45,22 +45,24 @@ Reader, I’m gonna try to keep this short.
 
 (I did not keep it short. Sorry.)
 
-Thanks for reading, thanks for funding me (this last missive is free of all charge), thanks for not unsubscribing because_ I fucking swear too much_, thanks for putting up with my, uh, recent change in brand. It’s gonna be harder for me without all of you, but it’s gonna be better. I think. 
+Thanks for reading, thanks for funding me (this last missive is free of all charge), thanks for not unsubscribing because _I fucking swear too much_, thanks for putting up with my, uh, recent change in brand. It’s gonna be harder for me without all of you, but it’s gonna be better. I think. 
 
 Extra thanks to everyone who sent supportive messages after the NYT debacle–honestly would rather have _not_ been the center of bullshit media gossip after the hell of this month, but it’s nice to know that some of you noticed the uncredited re-reporting and made enough noise about it to embarrass the Gray Lady into saving face by awarding me a “Special Creative Reporting Grant”. Thanks to a generous interpretation of “creative reporting” and some very careful contract arrangement, I’m basically treating this as long-overdue fuck-you (more specifically, and loud enough for everyone in the back to hear, _fuck journalism_) money. Most of the grant went into buying a shitty old analog station wagon that, apparently, I’ll be living out of for the foreseeable. Still more comfortable than a solocup, which I’m pretty sure I’ll never be using again and you probably shouldn’t either. I forgot how fucking weird/terrifying/exhilarating actually driving is. 
 
 I can’t really explain in detail what I’m doing next, but I’m getting back to building stuff. I’m pretty sure I’m not the one to like, build a _community_, much less a movement, but for a minute there in my early twenties I was pretty good at making spaces and I’m probably a lot more useful to people doing _that_ than I am sending pithy email missives and playing investigative reporter or whatever. I’m sick of trying to convince editors that stories about rebuilding the country are important when I could just be rebuilding it, for real, for people who actually care and don’t want to build the same shitty infrastructures that brought us the Shitstorm in the first place. 
 
-Seeing as this is my big sendoff, I might as well break my one big rule now: no, I didn’t know that those files were my brother’s, and I don’t really want to get into what that _means_. I never cared about all the famous stuff that made you all think you knew who he was, because I knew who he_ really_ was. Or I thought I knew who he really was. Or both. Probably both. People are usually more complicated than you think. That’s all I’m going to tell you. Don’t take it personal. 
+Seeing as this is my big sendoff, I might as well break my one big rule now: no, I didn’t know that those files were my brother’s, and I don’t really want to get into what that _means_. I never cared about all the famous stuff that made you all think you knew who he was, because I knew who he _really_ was. Or I thought I knew who he really was. Or both. Probably both. People are usually more complicated than you think. That’s all I’m going to tell you. Don’t take it personal. 
 
 More to come uh, never. 
 
 <hr class="break">
 
-**From: Aoife TW &lt;eefa@offgrid.city&gt;**
-**Subject: hi**
-**Date: May 30, 2038 09:03 PM EDT**
+**From: Aoife TW &lt;eefa@offgrid.city&gt;**<br>
+**Subject: hi**<br>
+**Date: May 30, 2038 09:03 PM EDT**<br>
 **To: Alexa Koenig &lt;ak@icccpi.tech&gt;**
+
+<hr>
 
 I hope this email address still works. You probably have a lot of questions for me. Or at least I hope so, because I have a lot of questions for you. I’m sorry if that email dump from a couple of days ago blew up your spot and _really_ sorry that I didn’t just think to try and track you down sooner–it’s not an excuse, but I was getting pretty paranoid and stressed and as a result haven’t really been thinking clearly these last few weeks. And I mean, given what happened in the Bay Area during the Shitstorm it’s pretty incredible you’re alive at all, let alone findable online (though it _did_ take some time). But yeah, a decade-plus-late congratulations on the MacArthur and based on everything else I’ve read leading an incredible life. 
 

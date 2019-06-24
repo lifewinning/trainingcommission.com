@@ -107,7 +107,7 @@ Shockingly, my phone had already synched up with the Smithsonian’s wayfinding 
 
 It was a USB stick. The kind you might use in, like, 2008. Dead tech, and it looked it: scarred light purple shell and a connector skewed so hard I doubted its operability. 
 
-Avi, you are well aware that I have a fairly disordered work/home/personal life, but you’ve known me long enough to know my bag is _always_ ordered. _ _And _never_ have I put a USB stick in my bag. Never have I, as an adult, even _used_ a USB stick, much less carried one on my person. So John Temblaine Paulson  had, quite obviously, stuck it in there. 
+Avi, you are well aware that I have a fairly disordered work/home/personal life, but you’ve known me long enough to know my bag is _always_ ordered. And _never_ have I put a USB stick in my bag. Never have I, as an adult, even _used_ a USB stick, much less carried one on my person. So John Temblaine Paulson  had, quite obviously, stuck it in there. 
 
 Recalling his idle phone-scrolling when I came to and the inscrutable creepy expressions, I concluded the guy probably filmed me passed out in his office chair as some weird sex thing, then put that video on the USB somehow and left in my bag to taunt me. 
 
