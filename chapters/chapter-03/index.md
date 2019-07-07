@@ -4,34 +4,34 @@ title:  "Chapter 3"
 permalink: /chapters/chapter-03
 ---
 
-**From: Aoife T &lt;aoife@stringr.io&gt;**
-**Subject: Fw: Re: Lost Commission Documents**
-**Date: May 21, 2038 02:21 AM EDT**
-**To: Riley Easton &lt;easton@nytimes.com&gt;**
-
+**From: Aoife T &lt;aoife@stringr.io&gt;**<br>
+**Subject: Fw: Re: Lost Commission Documents**<br>
+**Date: May 21, 2038 02:21 AM EDT**<br>
+**To: Riley Easton &lt;easton@nytimes.com&gt;**<br>
+<hr>
 So were you just looking for a way to fuck with me here or did you not know your friend over at _The Paladin_ is a fucking scumbag? “We can’t in good conscience”, fucking sanctimonious prick. What the fuck is he talking about? Did you know about this? Did this guy tell you this double agent conspiracy bullshit (which is a new one, points to fuckface for creativity I guess) and you _still_ sent me to him? 
 
 It’s always like this. Youll comb over every fucking grain of sand to get a story right but won’t think twice about setting me up to be humiliated and insulted by some Yale douchebag who probably uses the word “comrade” without irony. 
 
-_From: Wilson Wallace-Wallerstein &lt;wilson@thepaladin.media&gt;_
-_Subject: Re: Lost Commission Documents_
-_Date: May 20, 2038 7:45 PM EDT_
-_To: Aoife T &lt;[aoife@stringr.io](mailto:aoife@stringr.io)&gt;_	
+_From: Wilson Wallace-Wallerstein &lt;wilson@thepaladin.media&gt;_<br>
+_Subject: Re: Lost Commission Documents_<br>
+_Date: May 20, 2038 7:45 PM EDT_<br>
+_To: Aoife T &lt;[aoife@stringr.io](mailto:aoife@stringr.io)&gt;_<br>	
 
-Aoife,
+_Aoife,_
 
-While it sounds like you’ve come across some interesting materials, we can’t in good conscience work with you on it given your own familial conflict of interest here. Any story about the formation of the TC that doesn’t investigate or address Ciárnan’s rumored role in it (which, based on conversation with Riley, you’re both apparently entirely in denial about) isn’t a story we can support. 
+_While it sounds like you’ve come across some interesting materials, we can’t in good conscience work with you on it given your own familial conflict of interest here. Any story about the formation of the TC that doesn’t investigate or address Ciárnan’s rumored role in it (which, based on conversation with Riley, you’re both apparently entirely in denial about) isn’t a story we can support._
 
-Good luck with your investigation. 
+_Good luck with your investigation._
 
-–Wilson 
+_–Wilson_
 
 <hr class="break">
 
-**From: Aoife T &lt;aoife@stringr.io&gt;**
-**Subject: Look fine I’m sorry probably don’t read that last forwarded email**
-**Date: May 21, 2038 06:33 AM EDT**
-**To: Riley Easton &lt;easton@nytimes.com&gt;**
+**From: Aoife T &lt;aoife@stringr.io&gt;**<br>
+**Subject: Look fine I’m sorry probably don’t read that last forwarded email**<br>
+**Date: May 21, 2038 06:33 AM EDT**<br>
+**To: Riley Easton &lt;easton@nytimes.com&gt;**<br>
 
 ***
 Look, I know Wallerstein came with caveats and you said I should slow the fuck down and keep digging through the docs before publishing so no, I’m not mad at you and I’m sorry. (that guy still fucking sucks though.) Please bear in mind while you’re considering never speaking to me again that I haven’t gotten a lot of sleep and what little I _did_ get last night was in a solocup roaming the LFMAVN. 
